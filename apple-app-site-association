@@ -1,9 +1,11 @@
 {
-	"applinks": {
-		"details": [
-			{
-				"appIDs": ["Q7W47GFKL3.com.ibm.cio.be.w3"]
-			}
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "Q7W47GFKL3.com.ibm.cio.be.w3",
+      "paths": ["*"]
+    }
+    ]
+  }
 }
