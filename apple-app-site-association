@@ -1,11 +1,15 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-    {
-      "appID": "Q7W47GFKL3.com.ibm.cio.be.w3",
-      "paths": ["*"]
-    }
-    ]
-  }
+      "details": [
+           {
+             "appIDs": [ "Q7W47GFKL3.com.ibm.cio.be.w3" ],
+             "components": [
+               {
+                  "/": "*",
+                  "comment": "Matches any URL whose path starts with /buy/"
+               }
+             ]
+           }
+       ]
+   }
 }
